@@ -31,24 +31,16 @@ This analysis answers key questions such as:
 hr-attrition-analysis/
 │
 ├── sql/
-│   ├── schema.sql
-│   ├── data_import.sql
-│   └── analysis_queries.sql
+│   ├── hr_data_querys
 │
 ├── python/
 │   └── hr_analysis.ipynb
-│
-├── tableau/
-│   └── hr_dashboard.twbx
-│
+
 ├── data/
-│   └── hr_data.csv
+│   └── hr_dashboard_data
 │
 ├── images/
-│   ├── attrition_by_jobrole.png
-│   ├── attrition_by_salary.png
-│   ├── attrition_by_department.png
-│   └── attrition_overview.png
+│   ├──dashboard
 │
 └── README.md
 ```
