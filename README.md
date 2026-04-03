@@ -96,7 +96,7 @@ The dataset required preprocessing before analysis:
 ---
 
 ### 🔹 General Overview
-![Overview](images/dashboard)
+![Overview](project/images)
 
 - Combines key metrics into a single dashboard for decision-making
 
