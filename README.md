@@ -75,7 +75,6 @@ The dataset required preprocessing before analysis:
 ---
 
 ### 🔹 Attrition by Job Role
-![Attrition by Job Role](images/attrition_by_jobrole.png)
 
 - Some roles show significantly higher turnover
 - Indicates potential issues in workload, expectations, or compensation
@@ -83,7 +82,6 @@ The dataset required preprocessing before analysis:
 ---
 
 ### 🔹 Attrition by Salary Level
-![Attrition by Salary](images/attrition_by_salary.png)
 
 - Lower salary levels tend to have higher attrition
 - Suggests compensation is a strong retention factor
@@ -91,7 +89,6 @@ The dataset required preprocessing before analysis:
 ---
 
 ### 🔹 Attrition by Department
-![Attrition by Department](images/attrition_by_department.png)
 
 - Certain departments are more affected than others
 - Helps HR focus retention strategies
@@ -99,7 +96,7 @@ The dataset required preprocessing before analysis:
 ---
 
 ### 🔹 General Overview
-![Overview](images/attrition_overview.png)
+![Overview](images/dashboard)
 
 - Combines key metrics into a single dashboard for decision-making
 
