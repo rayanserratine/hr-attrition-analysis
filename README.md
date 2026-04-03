@@ -14,8 +14,6 @@ This analysis answers key questions such as:
 - What is the overall attrition rate?
 - Which job roles have the highest attrition?
 - How does salary level impact employee turnover?
-- Is there a relationship between engagement and attrition?
-- Do employees with longer tenure leave less?
 
 ---
 
